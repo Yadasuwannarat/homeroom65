@@ -141,6 +141,7 @@ class Addition_controller extends CI_Controller{
     // $department_id = $this->input->get('department_id');
     $this->load->model('advisor_report_model');
     $data = $this->advisor_report_model->get_approving();
+    
     // echo '<pre>';
     // var_dump($data[0]);
     // echo '<hr>';
