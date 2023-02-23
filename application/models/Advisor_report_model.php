@@ -1,5 +1,5 @@
 <?php
-
+// ดีจ้า
 defined('BASEPATH') or exit('No direct script access allowed');
 class Advisor_report_model extends CI_Model
 {

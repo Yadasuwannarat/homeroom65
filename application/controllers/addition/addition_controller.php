@@ -135,7 +135,7 @@ class Addition_controller extends CI_Controller{
     $this->load->view('footer');
   
   }
-
+// หน้าที่สร้างขึ้นมาใหม่
   public function advisor_print_report(){
     // echo $this->input->get('semester_id');
     // $department_id = $this->input->get('department_id');
